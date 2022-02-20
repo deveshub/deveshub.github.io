@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Devesh Mankar
+### Lead Consultant, Developer at Thoughtworks
 
-You can use the [editor on GitHub](https://github.com/deveshub/deveshub.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Devesh serves Thoughtworks as a Lead Developer with twelve years of extensive full-stack engineering experience in Object Oriented Analysis, Design and Test-Driven Development of numerous monoliths and microservices with Java 8, Spring, Hibernate, JHipster, Angular, Polymer, jQuery, Spark, Kafka in a highly mature DevOps culture in Agile Methodology. He is a resourceful candidate. Strong on High-Performance JPA and ORM implementations. Strong in OOAD concepts such as GRASP, SOLID, & GOF Design Patterns
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Thoughtworks experience
 
-### Markdown
+He has recently joined Thoughtworks and is working for an financial client.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Other experience
+#### Lead Developer, BMC Software; Pune, IN - Mar 2019 – Dec 2021
 
-```markdown
-Syntax highlighted code block
+Devesh worked on Software Design and modernization of customer-facing e-commerce applications which required high availability.  The application is distributed across various microservices, and a few frontend gateways developed on OO Development, XP, Design Patterns, Hexagonal/Onion Architecture, Test Driven Development and Refactoring. 
+Devesh also worked on an algorithmically complex monolith which generated PowerPoint slides based on infinite graph data structure traversals.
+Devesh additionally took responsibility for improving unit level DevOps maturity at large by taking various initiatives at unit level, such as Shift Quality Left, Branching Strategies, Improving Build Pipelines, CI/CD and automated code reviews etc.  
 
-# Header 1
-## Header 2
-### Header 3
+#### Technology Lead, Infosys; Pune, IN - Jan 2010- Feb 2019
+Devesh worked on several engagements including both on and offsite software development in Agile methodology through various onsite development projects where he was brought in to provide architectural review, development expertise, and solution design.
+During this tenure, he worked as a feature team lead on setting up the project from scratch. Bootstrapped Spring Boot, Apache Spark Jobs, and Angular UI projects. Designed and Implemented Microservices using Spring Boot. Implemented REST and Messaging Endpoints to communicate microservices through HTTP and AMQP protocols using RabbitMQ Server and Spark jobs with Apache Kafka. 
 
-- Bulleted
-- List
+### Education
+#### M.Tech Software Engineering, BITS Pilani WILP (2020-2022)
+Currently pursuing online, 2 Semesters completed with average CGPA 9.3/10
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deveshub/deveshub.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Bachelor of Engineering (2005-2009)
+SGB Amravati University, SSGM College of Engineering, Shegaon 444203
+Graduated in May 2009 with 61.53%
