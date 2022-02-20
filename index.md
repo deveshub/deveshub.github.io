@@ -1,7 +1,9 @@
 ## Devesh Mankar
 ### Lead Consultant, Developer at Thoughtworks
 
-Devesh serves Thoughtworks as a Lead Developer with twelve years of extensive full-stack engineering experience in Object Oriented Analysis, Design and Test-Driven Development of numerous monoliths and microservices with Java 8, Spring, Hibernate, JHipster, Angular, Polymer, jQuery, Spark, Kafka in a highly mature DevOps culture in Agile Methodology. He is a resourceful candidate. Strong on High-Performance JPA and ORM implementations. Strong in OOAD concepts such as GRASP, SOLID, & GOF Design Patterns
+Devesh serves Thoughtworks as a Lead Developer with twelve years of extensive full-stack engineering experience in Object Oriented Analysis, Design and Test-Driven Development of numerous monoliths and microservices with Java 8, Spring, Hibernate, JHipster, Angular, Polymer, jQuery, Spark, Kafka in a highly mature DevOps culture in Agile Methodology. 
+He is a resourceful candidate. Strong on High-Performance JPA and ORM implementations. 
+Strong in OOAD concepts such as GRASP, SOLID, & GOF Design Patterns
 
 ### Thoughtworks experience
 
@@ -15,8 +17,10 @@ Devesh also worked on an algorithmically complex monolith which generated PowerP
 Devesh additionally took responsibility for improving unit level DevOps maturity at large by taking various initiatives at unit level, such as Shift Quality Left, Branching Strategies, Improving Build Pipelines, CI/CD and automated code reviews etc.  
 
 #### Technology Lead, Infosys; Pune, IN - Jan 2010- Feb 2019
+
 Devesh worked on several engagements including both on and offsite software development in Agile methodology through various onsite development projects where he was brought in to provide architectural review, development expertise, and solution design.
-During this tenure, he worked as a feature team lead on setting up the project from scratch. Bootstrapped Spring Boot, Apache Spark Jobs, and Angular UI projects. Designed and Implemented Microservices using Spring Boot. Implemented REST and Messaging Endpoints to communicate microservices through HTTP and AMQP protocols using RabbitMQ Server and Spark jobs with Apache Kafka. 
+During this tenure, he worked as a feature team lead on setting up the project from scratch. Bootstrapped Spring Boot, Apache Spark Jobs, and Angular UI projects. Designed and Implemented Microservices using Spring Boot. 
+Implemented REST and Messaging Endpoints to communicate microservices through HTTP and AMQP protocols using RabbitMQ Server and Spark jobs with Apache Kafka. 
 
 ### Education
 #### M.Tech Software Engineering, BITS Pilani WILP (2020-2022)
